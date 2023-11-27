@@ -1,50 +1,54 @@
 ---
 # Display name
-title: 吳健雄
+title: Amar D. Mandavia
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: aam-ar
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Status emoji
-status:
-  icon: ☕️
+first_name: Amar
+last_name: Mandavia
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Fellow in Medical Informatics & Catalyst Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Boston Veterans Affairs Healthcare System 
+    url: https://www.va.gov/boston-health-care/
+  - name: Massachusetts Institute of Technology 
+    url: https://catalyst.mit.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Clinical psychologist & Informatician
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Risk Predicition
+  - Digital Theraputics
+  - Healthcare Innovation
+  - Problem Areas: 
+      - Opioid Crisis
+      - Suicide
+      - Pscyhosis
+      - HIV
+      - PTSD
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Clinical Psychology
+      institution: Teachers College, Columbia University
+      year: 2022
+    - course: MA in Psychology in Education 
+      institution: Teachers College, Columbia University
+      year: 2016
+    - course: BSc in Psychology 
+      institution: Georgia State University
+      year: 2013
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
