@@ -9,7 +9,7 @@ authors:
 - L. Wong
 - M. Grivel1
 - L. H. Yang
-date: -01-01
+date: 2017-07-01
 publishDate: '2023-11-27T05:20:31.676931Z'
 publication_types:
 - paper-conference
