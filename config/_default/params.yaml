@@ -122,7 +122,7 @@ security:
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "amarmandavia@gmail.com"
-#phone = ""
+phone : ""
 address = "VA Boston Healthcare System<br>150 S Huntington St.<br>Boston, MA 02130"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
