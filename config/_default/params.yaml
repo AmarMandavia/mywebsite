@@ -121,19 +121,18 @@ security:
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "amarmandavia@gmail.com"
-phone : ""
-address = "VA Boston Healthcare System<br>150 S Huntington St.<br>Boston, MA 02130"
+email : "amarmandavia@gmail.com"
+address : "VA Boston Healthcare System<br>150 S Huntington St.<br>Boston, MA 02130"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = ""
+office_hours : ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [
+contact_links : [
   # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
