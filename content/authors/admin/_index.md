@@ -80,7 +80,9 @@ social:
     icon_pack: ai
     link: "https://drive.google.com/file/d/1ScyDCuNUbPx6grag0jNpHSn1kpkZ1bKa/view?usp=drive_link"
    
-
+user_groups:
+- Researchers
+- Visitors
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
