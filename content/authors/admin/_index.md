@@ -30,7 +30,7 @@ interests:
   - Risk Predicition
   - Digital Theraputics
   - Healthcare Innovation
-  - Problem Areas: 
+Problem Areas: 
       - Opioid Crisis
       - Suicide
       - Pscyhosis
