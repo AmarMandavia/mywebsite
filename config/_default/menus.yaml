@@ -4,14 +4,14 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: About
     url: '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
-    weight: 20
   - name: Projects
     url: '#projects'
+    weight: 20
+  - name: Teaching
+    url: '#teaching'
     weight: 30
   - name: Talks
     url: '#talks'
@@ -25,6 +25,6 @@ main:
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70
+  - name: CV (Last updated 10/25/2023)
+   url: "https://drive.google.com/file/d/1ScyDCuNUbPx6grag0jNpHSn1kpkZ1bKa/view?usp=drive_link"
+   weight: 130
