@@ -78,7 +78,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: "https://drive.google.com/file/d/1ScyDCuNUbPx6grag0jNpHSn1kpkZ1bKa/view?usp=drive_link"
+    link: "https://drive.google.com/file/d/1vfWkpN0UhVA7XlcHDA_TfLgzOhzA7hPI/view?usp=drive_link"
    
 user_groups:
 - Researchers
